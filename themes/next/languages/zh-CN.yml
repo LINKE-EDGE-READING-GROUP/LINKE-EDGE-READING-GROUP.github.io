@@ -6,7 +6,6 @@ title:
   tag: 标签
   schedule: Schdule
   slides: Slides
-  homework: 课程作业
 menu:
   home: 首页
   archives: 归档
@@ -18,7 +17,6 @@ menu:
   sitemap: 站点地图
   commonweal: 公益 404
   slides: Slides
-  homework: 课程作业
 sidebar:
   overview: 站点概览
   toc: 文章目录

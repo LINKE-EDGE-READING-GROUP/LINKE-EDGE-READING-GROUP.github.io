@@ -119,14 +119,13 @@ darkmode: false
 # External url should start with http:// or https://
 menu:
   home: / || home
-  # about: /about/ || user
-  # schedule: /schedule/ || calendar
+  about: /about/ || user
+  schedule: /schedule/ || calendar
   slides: /slides/ || book
-  homework: /homework/ || book
 
-  # tags: /tags/ || tags
-  # categories: /categories/ || th
-  # archives: /archives/ || archive
+  tags: /tags/ || tags
+  categories: /categories/ || th
+  archives: /archives/ || archive
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
